@@ -12,7 +12,7 @@ Hi there! 👋🏻
 ## How To Reach Me
 
 - Email: hildxd@outlook.com
-- Wechat: laichina
+- Wechat: hildxd
 
 
 ## Visitors Count
