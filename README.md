@@ -6,7 +6,6 @@ Hi there! 👋🏻
   <a href="https://github.com/microsoft/TypeScript"><img src="https://api.iconify.design/logos:typescript-icon.svg" /></a> .
   <a href="https://github.com/unocss/unocss"><img src="https://api.iconify.design/logos:tailwindcss.svg" /></a> .
   <a href="https://github.com/rust-lang/rust"><img src="https://api.iconify.design/logos:rust.svg" /></a>
-  <a href="https://github.com/rust-lang/rust"><img src="https://api.iconify.design/logos:go.svg" /></a>
 </samp>
 
 ## How To Reach Me
