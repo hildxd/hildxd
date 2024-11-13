@@ -1,21 +1,13 @@
-Hi there! 👋🏻
+![Coding For Fun](https://glitch-art.vercel.app/api/simple?word=<Life%20/>)
 
-<samp>
-  <a href="https://github.com/vuejs/core"><img src="https://api.iconify.design/logos:react.svg" /></a> .
-  <a href="https://github.com/vitejs/vite"><img src="https://api.iconify.design/logos:vitejs.svg" /></a> .
-  <a href="https://github.com/microsoft/TypeScript"><img src="https://api.iconify.design/logos:typescript-icon.svg" /></a> .
-  <a href="https://github.com/unocss/unocss"><img src="https://api.iconify.design/logos:tailwindcss.svg" /></a> .
-  <a href="https://github.com/rust-lang/rust"><img src="https://api.iconify.design/logos:rust.svg" /></a>
-</samp>
+### 🧑‍💻 Things I code with
 
-## How To Reach Me
+  <code><a href="https://github.com/vuejs/core"><img src="https://api.iconify.design/logos:react.svg" /></a></code>
+  <code><a href="https://github.com/vitejs/vite"><img src="https://api.iconify.design/logos:vitejs.svg" /></a></code>
+  <code><a href="https://github.com/microsoft/TypeScript"><img src="https://api.iconify.design/logos:typescript-icon.svg" /></a></code>
+  <code><a href="https://github.com/unocss/unocss"><img src="https://api.iconify.design/logos:tailwindcss.svg" /></a></code>
+  <code><a href="https://github.com/rust-lang/rust"><img src="https://api.iconify.design/logos:rust.svg" /></a></code>
+<hr />
+### 👀 Visitors Count
 
-- Email: hildxd@outlook.com
-- Wechat: hildxd
-
-
-## Visitors Count
-
-![gh_visitors](https://profile-counter.glitch.me/hildxd/count.svg)
-
-
+![gh_visitors](https://profile-counter.glitch.me/alexzhang1030/count.svg)
